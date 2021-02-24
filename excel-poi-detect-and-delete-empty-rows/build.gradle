@@ -1,0 +1,14 @@
+plugins {
+    id 'java-library'
+}
+
+sourceCompatibility = 12
+targetCompatibility = 12
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'org.apache.poi:poi-ooxml:4.1.0' to 5.0.0
+}
