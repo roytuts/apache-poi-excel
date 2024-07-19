@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/border-and-color-in-excel-file-using-apache-poi-in-java/
+Please follow the tutorial https://roytuts.com/border-and-color-in-excel-file-using-apache-poi-in-java/
